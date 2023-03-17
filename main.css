@@ -1,0 +1,79 @@
+#cabecalho {
+    background-color: rgb(255, 255, 255);
+}
+
+.section-title{
+    color: rgb(0, 0, 0);
+    font-family: 'Anton', sans-serif;
+}
+.navbar-expand-lg button{
+    max-width: 45px;
+    max-height: 40px;
+    width: 45px;
+}
+.nav .nav-link {
+    color: black;
+}
+body{
+    background-color: rgb(39, 38, 38);
+}
+body p{
+    color: white;
+}
+.nav .nav-item .nav-link.active{
+    background-color: rgb(136, 134, 134);
+    color: rgb(255, 255, 255);
+}
+.gold{
+    color: rgba(243, 243, 0, 0.705);
+    font-family: 'Pacifico', cursive;
+}
+.title{
+    color: rgb(205, 203, 203);
+    font-family: 'Pacifico', cursive;
+}
+.title1{
+    font-size: 32px;
+}
+.carousel img{
+    width: 100%;
+    max-height: 400px;
+}
+
+.col-md-12 .button-products button{
+    background-color: rgb(39, 38, 38);
+    color: white;
+}
+
+.h5-color{
+    color: gold;
+}
+.button-products .nav-link.active{
+    background-color: rgb(78, 78, 78);
+    color: #fff;
+}
+#fale-conosco button{
+    background-color: rgb(53, 52, 52);
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+#fale-conosco button:hover{
+    background-color: rgb(18, 18, 18);
+}
+#fale-conosco{
+    background-color: rgb(128, 126, 126);
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+.social-links li a{
+    text-decoration: none;
+}
+.text-colored2{
+    color: rgb(7, 7, 7);
+}
+.text-colored{
+    color: black;
+}
